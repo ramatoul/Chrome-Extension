@@ -1,0 +1,14 @@
+{
+    "manifest_version" : 2,
+    "name": "Ramatoulaye",
+    "description": "Liens vers mes comptes",
+    "version": "1.0.0",
+    "icons": {
+        "128": "acons.png"
+    },
+    "browser_action": {
+    "default_icon": "acons.png",
+    "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}

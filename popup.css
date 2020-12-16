@@ -1,0 +1,27 @@
+.carde{
+            display: flex;
+            flex-direction: column;
+            width: 365px;
+            align-items: center;
+            border: solid 5px rgb(97, 97, 236);
+            border-radius: 3px;
+        }
+        a{
+            font-size: 28px;
+    
+        }
+        .boite{
+            display: flex;
+            flex-direction: row;
+        }
+        img{
+            height: 30px;
+            border-radius: 100%;
+        }
+        i {
+            color: rgb(134, 122, 44);
+        }
+        .titre {
+            color: rgb(134, 122, 44);
+            font-size: 30px;
+        }
